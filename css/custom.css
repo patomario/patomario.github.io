@@ -45,6 +45,39 @@
     margin-left: 20px;
 }*/
 
+.gamecover {
+  padding: 3%;
+}
+
+.gamecover a {
+  padding: 3%;
+}
+
+.gamecover img {
+    width: 180px; /* Width of the element */
+    margin-left: 0px; /* Margin Left, is the margin for the left side of the content */
+    height: 290px;
+    border: black;
+    border-style: solid;
+}
+
+
+.songcover {
+  padding: 3%;
+}
+
+.songcover a {
+  padding: 3%;
+}
+
+.songcover img {
+    width: 180px; /* Width of the element */
+    margin-left: 0px; /* Margin Left, is the margin for the left side of the content */
+    height: 220px;
+    border: black;
+    border-style: solid;
+}
+
 .mod {
   padding: 3%;
 }
